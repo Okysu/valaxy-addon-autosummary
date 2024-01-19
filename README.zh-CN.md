@@ -1,6 +1,6 @@
 # Valaxy-addon-autosummary
 
-<p align="center"><a href="README">English</a> | 中文</p>
+<p align="center"><a href="README.md">English</a> | 中文</p>
 
 ## 概要
 

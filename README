@@ -1,18 +1,6 @@
 # Valaxy-addon-autosummary
 
-<div class="language-switcher">
-  <a href="README.md">English</a>
-  <a href="README_ZH-CN.md">简体中文</a>
-</div>
-
-<style>
-.language-switcher {
-  text-align: center;
-}
-.language-switcher a {
-  margin: 0 10px;
-}
-</style>
+<p align="center">English | <a href="README.zh-CN.md">中文</a></p>
 
 ## Overview
 
